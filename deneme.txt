@@ -1,1 +1,2 @@
-deneme1  son diyelim
+deneme1  son diyelim 
+masterda burası değişti
