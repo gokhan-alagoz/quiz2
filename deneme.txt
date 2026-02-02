@@ -17,7 +17,12 @@ burası yeni branch oluşturmak için
 
 burasıda master için
 
+
 sossss branch 
+
+burasıda master için ssooos
+
+
 
 
 
