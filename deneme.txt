@@ -12,6 +12,10 @@ deneme1  son diyelim
 
 son burası
 
+
 burası yeni branch oluşturmak için
+
+burasıda master için
+
 
 
